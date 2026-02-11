@@ -1,2 +1,4 @@
 user data is added successsfully
 process the data
+
+create an avatar for users 
